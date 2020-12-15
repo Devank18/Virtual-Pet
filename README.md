@@ -1,2 +1,2 @@
 # Virtual-Pet
-VirtualPet
+Virtual Pet
